@@ -301,7 +301,7 @@ window.onload = function () {
 };
 
 function reveal() {
-	document.querySelector(".merrywrap").style.backgroundColor = "transparent";
+	document.querySelector(".merrywrap").style.backgroundImage = "url(" + "transparent";
 
 	loop();
 

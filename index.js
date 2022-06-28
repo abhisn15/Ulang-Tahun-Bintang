@@ -317,7 +317,7 @@ function reveal() {
 	var ifrm = document.createElement("iframe");
 	ifrm.setAttribute(
 		"src",
-		"https://www.youtube.com/watch?v=sJVr26NXffc&ab_channel=BangScoutProduction"
+		"https://youtube.com/embed/sJVr26NXffc"
 	);
 	//ifrm.style.width = `${w}px`;
 	//ifrm.style.height = `${h}px`;

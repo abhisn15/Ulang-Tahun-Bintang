@@ -83,8 +83,8 @@ div#sea {
 	left: 0px;
 	bottom: 0px;
 	top: 0px;
-	background-color: #d44;
-	transition: background-color 0.5s ease;
+	background-image: url("https://1.bp.blogspot.com/-DE0fHun7c7o/XtRLMT2lQuI/AAAAAAAAFWY/iHuiIWVn8rQPnntUfFihFUfLs4pncPYlACLcBGAsYHQ/s1600/DFDSFSFSC.jpg");
+	transition: all 5s ease;
 }
 
 .giftbox {
@@ -471,13 +471,13 @@ div#sea {
 	}
 
 	div#video {
-		right: 230px;
-		bottom: 185px;
+		right: 234px;
+		bottom: 191px;
 	}
 
 	div#video iframe {
-		width: 235px;
-		height: 145px;
+		width: 227px;
+		height: 138px;
 	}
 
 	.moon {

@@ -3,10 +3,12 @@ html,
 body,
 .container {
 	height: 100%;
+	margin: 0 auto;
 	font-family: "Kaushan Script", "Sail", cursive;
 }
 
 body {
+	margin: 0 auto;
 	background: #e74;
 	overflow: hidden;
 	background-image: linear-gradient(

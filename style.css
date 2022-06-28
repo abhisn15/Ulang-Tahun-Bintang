@@ -455,6 +455,8 @@ div#sea {
 	}
 
 	.icons .row span {
+	        position: relative;
+		top: 20px;
 		font-size: 26px;
 	}
 
